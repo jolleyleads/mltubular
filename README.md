@@ -1,0 +1,1 @@
+# ML Production API\n\nProduction-style Machine Learning API using FastAPI.\n\n## Features\n- FastAPI REST API\n- Health check endpoint\n- Production-ready project structure\n- Designed for ML, Data Engineering, and LLM pipelines\n\n## Run\n```bash\nuvicorn app.main:app --reload\n```\n
